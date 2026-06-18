@@ -1,3 +1,7 @@
 we started book with first-lesson 
 
-branch-for-test-push
+branch-for-test-push 
+
+
+i adede this as atom 
+ now i fix this problem
