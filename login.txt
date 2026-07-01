@@ -11,3 +11,5 @@ and now atom fix the issue 1 problem
 
 
 intro for book (test is bunlshet dor who commit )
+
+fixing bug with tags
